@@ -1,4 +1,5 @@
 import "./App.css";
+import ChatWidget from "./components/ChatWidget";
 import ContactForm from "./components/ContactForm";
 import DarkModeToggle from "./components/DarkModeToggle";
 import HeroSection from "./components/HeroSection";
@@ -16,6 +17,7 @@ function App() {
         <WhyChooseUs/>
         <Testimonials/>
         <ContactForm/>
+        <ChatWidget/>
       </div>
     </>
   );
