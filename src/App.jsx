@@ -1,12 +1,14 @@
-import './App.css'
+import "./App.css";
+import HeroSection from "./components/HeroSection";
 
 function App() {
-
   return (
     <>
-      <h1>Hello Vj</h1>
+      <div className="font-sans">
+        <HeroSection />
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
