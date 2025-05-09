@@ -18,7 +18,7 @@ A responsive, single-page marketing website for the fictional software resale st
 - Heroicons
 
 ## ⏱️ Time Spent
-- ~2.0 hours
+- ~2.5 hours
 
 ## 🚀 Live Demo
 [Live Site](https://credex-assignment-nu.vercel.app/)
