@@ -1,6 +1,7 @@
 import "./App.css";
 import HeroSection from "./components/HeroSection";
 import HowItWorks from "./components/HowItWorks";
+import Testimonials from "./components/Testimonials";
 import WhyChooseUs from "./components/WhyChooseUs";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
         <HeroSection />
         <HowItWorks/>
         <WhyChooseUs/>
+        <Testimonials/>
       </div>
     </>
   );
